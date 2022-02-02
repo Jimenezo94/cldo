@@ -1,0 +1,27 @@
+ul {
+    list-style-type: none;
+    overflow:hidden;
+  }
+  
+  li {
+    width: 50px;
+    height: 50px;
+    border: 3px solid black;
+    border-radius: 50px;
+    float: left;
+    cursor: pointer;
+    margin-right: 20px;
+  }
+  
+  #theme1 {
+    background-color: hsl(222, 26%, 31%);
+  }
+  
+  #theme2 {
+    background-color:  hsl(0, 0%, 90%);
+  }
+  
+  #theme3{
+    background-color: hsl(268, 75%, 9%);
+  }
+  
